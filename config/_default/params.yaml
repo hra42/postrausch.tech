@@ -3,18 +3,18 @@
 ############################
 
 author:
-  name: hra42
+  name: Henry Rausch
   image: author.png
-  greeting: "Your new Qubt site :tada:"
-  icon: ":wave:"
+  greeting: "Automate the world! :tada:"
+  icon: ":rocket:"
 
 ############################
 ## Links
 ############################
 
 links:
-  - github: https://github.com/hra42/postrausch.tech
-  - link: https://github.com/hra42/postrausch.tech#readme
+  - github: https://github.com/hra42
+  #- link: https://github.com/hra42/postrausch.tech#readme
   # - website: 
   # - x-twitter: 
   # - mastodon: 
@@ -64,7 +64,7 @@ links:
 ## OpenGraph & Twitter Cards
 ###############################
 
-title: postrausch.tech
-description: "Site build with Qubt & Hugo"
+title: Postrausch
+description: "Automate the world!"
 images:
   - thumbnail.png

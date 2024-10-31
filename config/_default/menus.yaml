@@ -12,3 +12,9 @@ main:
 - name: About
   url: /about/
   weight: 30
+- name: Privacy
+  url: /privacy/
+  weight: 40
+- name: Imprint
+  url: /imprint/
+  weight: 50
